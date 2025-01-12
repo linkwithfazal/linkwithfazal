@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Fazal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on HTML CSS Projects
-- ⚡ I'm from Freelancing Family :)
+- 💞️ I’m looking to collaborate on HTML CSS Projects!
